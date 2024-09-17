@@ -18,6 +18,7 @@
     height: auto;
     margin: auto;
     margin-bottom: 5rem;
+    border-radius: 20px;
 }
 .hero-device{
     display: block;
